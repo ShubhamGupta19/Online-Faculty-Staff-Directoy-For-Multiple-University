@@ -11,6 +11,3 @@ details. User doesnt require any registration or login to access this system. Us
 faculty and view their details. Data in database are maintained securely without any maintenance cost.
 The technology used is Web development. We are using HTML5, CSS3, Bootstrap for designing and front
 end. Basic PHP and database management through the local server or cloud.
-The two phases of the project I.e the administrator and the User interface. In the administrator interface the
-person is allowed to add the details of faculty or the staff member. The user interface allows the person to
-view the data of the lecturer or faculty as per their wish.
