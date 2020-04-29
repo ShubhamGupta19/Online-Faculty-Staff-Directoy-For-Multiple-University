@@ -1,3 +1,5 @@
+The Below Application is made up of Php and MySql. Anyone who wants to ease their work can use it. For more details , feel free to contact!
+
 # Online-Faculty-Staff-Directoy-For-Multiple-University
 
 
@@ -11,3 +13,10 @@ details. User doesnt require any registration or login to access this system. Us
 faculty and view their details. Data in database are maintained securely without any maintenance cost.
 The technology used is Web development. We are using HTML5, CSS3, Bootstrap for designing and front
 end. Basic PHP and database management through the local server or cloud.
+
+
+<img src="https://github.com/ShubhamGupta19/Online-Faculty-Staff-Directoy-For-Multiple-University/blob/master/scrnshots/1.png">
+<img src="https://github.com/ShubhamGupta19/Online-Faculty-Staff-Directoy-For-Multiple-University/blob/master/scrnshots/2.png">
+<img src="https://github.com/ShubhamGupta19/Online-Faculty-Staff-Directoy-For-Multiple-University/blob/master/scrnshots/3.png">
+<img src="https://github.com/ShubhamGupta19/Online-Faculty-Staff-Directoy-For-Multiple-University/blob/master/scrnshots/4.png">
+<img src="https://github.com/ShubhamGupta19/Online-Faculty-Staff-Directoy-For-Multiple-University/blob/master/scrnshots/5.png">
